@@ -16,7 +16,7 @@ export default defineConfig({
 			manifest: {
 				"name": "Album Balancer",
 				"short_name": "Balancer",
-				"start_url": "/",
+				"start_url": "/album-balancer/",
 				"display": "standalone",
 				"background_color": "#fff",
 				"theme_color": "#343434",
