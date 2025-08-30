@@ -35,6 +35,7 @@ export default defineConfig({
 			}
 		})
 	],
+	base: '/album-balancer/',
 	resolve: {
 		alias: {
 			'@': fileURLToPath(new URL('./src', import.meta.url))
